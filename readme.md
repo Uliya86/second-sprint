@@ -12,7 +12,3 @@
 - Методология БЭМ;
 - Фйловая структура Nested БЭМ;
 - Работа с медиафайлами (HTML-video, iframe);
-
-
-## Ссылка на сайт:
-https://github.com/Uliya86/second-sprint/
