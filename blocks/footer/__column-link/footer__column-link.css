@@ -5,4 +5,9 @@
   line-height: 30px;
   cursor: pointer;
   text-decoration: none;
+  transition: opacity .3s linear;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
 }
